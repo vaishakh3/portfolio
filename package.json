@@ -57,7 +57,7 @@
 		"useTabs": true,
 		"tabWidth": 4
 	},
-	"homepage": "https://vaishakh.dev",
+	"homepage": "http://vaishakh.dev",
 	"devDependencies": {
 		"gh-pages": "^6.1.1"
 	}
