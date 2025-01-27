@@ -19,7 +19,7 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Acuate Angle Endeavours</div>
+							<div className="work-title">Acute Angle Endeavours</div>
 							<div className="work-subtitle">
 								UI/UX Design Intern
 							</div>
