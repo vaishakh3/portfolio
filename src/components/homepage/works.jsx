@@ -19,9 +19,9 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Acuate Angle Endeavours</div>
 							<div className="work-subtitle">
-								Software Engineer
+								UI/UX Design Intern
 							</div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
@@ -32,9 +32,9 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">JP&Me</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Graphic Design Intern
 							</div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
